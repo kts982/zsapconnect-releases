@@ -1,0 +1,29 @@
+ZSAPConnect Manager — Binary License
+=====================================
+
+Copyright (c) 2026 Konstantinos Tsioubris. All rights reserved.
+
+Permission is granted to download and use the ZSAPConnect Manager binaries
+distributed through this repository, free of charge, for any purpose,
+personal or commercial, subject to the following terms:
+
+1. The software is provided "AS IS", without warranty of any kind, express
+   or implied, including but not limited to the warranties of
+   merchantability, fitness for a particular purpose and noninfringement.
+   In no event shall the author be liable for any claim, damages or other
+   liability arising from the use of the software.
+
+2. You may not modify, decompile, reverse-engineer, repackage, rebrand,
+   or resell the binaries.
+
+3. You may share the software by linking to this repository's releases
+   page; please do not re-host the binary files elsewhere.
+
+4. Third-party components bundled with the software are subject to their
+   own licenses; see THIRD-PARTY-NOTICES.txt.
+
+The source code is not covered by this license and remains proprietary.
+
+ZSAPConnect is an independent tool, not affiliated with, endorsed by, or
+supported by SAP SE. SAP, SAP GUI and SAP Logon are registered trademarks
+of SAP SE.

@@ -1,0 +1,22 @@
+ZSAPConnect Manager — Third-Party Notices
+==========================================
+
+The distributed binaries bundle the following third-party components, each
+subject to its own license:
+
+- .NET Runtime and libraries
+  (c) .NET Foundation and Contributors — MIT License
+  https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+
+- Windows App SDK / WinUI 3
+  (c) Microsoft Corporation — MIT License (and applicable Microsoft
+  redistributable terms for runtime components)
+  https://github.com/microsoft/WindowsAppSDK/blob/main/LICENSE
+
+- CommunityToolkit.Mvvm
+  (c) .NET Foundation and Contributors — MIT License
+  https://github.com/CommunityToolkit/dotnet/blob/main/License.md
+
+The installer is built with Inno Setup, (c) Jordan Russell and Martijn
+Laan — freely distributable installer engine:
+https://jrsoftware.org/files/is/license.txt
