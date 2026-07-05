@@ -1,7 +1,7 @@
 ZSAPConnect Manager — Binary License
 =====================================
 
-Copyright (c) 2026 Konstantinos Tsioubris. All rights reserved.
+Copyright (c) 2026 kts982 (github.com/kts982). All rights reserved.
 
 Permission is granted to download and use the ZSAPConnect Manager binaries
 distributed through this repository, free of charge, for any purpose,
