@@ -9,6 +9,10 @@ log on with one click.
 This repository hosts the release binaries only; the source code is currently
 in a private repository (open-sourcing is under consideration).
 
+![ZSAPConnect Manager — systems grid with groups and tags](assets/screenshot-main.png)
+
+*All screenshots show synthetic demo data.*
+
 ## Install
 
 **Requirements:** Windows 10 version 1809 (build 17763) or later, x64.
@@ -37,6 +41,20 @@ The binaries are currently unsigned, so Windows SmartScreen may show an
   and color/label tags ("PRD", "SBX", …).
 - SAP-compliant password generator; encrypted transfer bundles
   (AES-256-GCM) for moving entries and passwords to another PC.
+
+## Screenshots
+
+**Entry detail** — logon data, tag editor, production-notes callout, one-click Log On:
+
+![Entry detail pane with tag editor and system notes](assets/screenshot-detail.png)
+
+**Group page** — member overview with quick connect/copy, rename and delete:
+
+![Group page with member list and rename/delete actions](assets/screenshot-group.png)
+
+**Windows skin** — follows the system Light/Dark theme (the default SAP GUI skin above keeps the familiar Belize look):
+
+![Windows skin in dark mode](assets/screenshot-dark.png)
 
 ## Security & privacy
 
