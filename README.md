@@ -17,18 +17,29 @@ in a private repository (open-sourcing is under consideration).
 
 **Requirements:** Windows 10 version 1809 (build 17763) or later, x64.
 
-From the [latest release](https://github.com/kts982/zsapconnect-releases/releases/latest):
+**Recommended — via winget** (built into Windows 10/11):
 
-- **`ZSAPConnect-Setup-X.Y.Z.exe`** (recommended, ~21 MB) — per-user installer,
+```
+winget install kts982.ZSAPConnect
+```
+
+Upgrades arrive through the same channel: `winget upgrade kts982.ZSAPConnect`.
+
+**Manual download** — from the
+[latest release](https://github.com/kts982/zsapconnect-releases/releases/latest):
+
+- **`ZSAPConnect-Setup-X.Y.Z.exe`** (~48 MB) — per-user installer,
   **no admin rights required**; adds a Start-menu shortcut and an uninstaller.
   Uninstalling keeps your entries and stored passwords, so upgrades are safe.
-- **`ZSAPConnect-vX.Y.Z-win-x64.zip`** — portable: unzip anywhere and run
-  `ZSAPConnect.App.exe`.
+  This is the same installer winget uses.
+- **`ZSAPConnect-vX.Y.Z-win-x64.zip`** (~72 MB) — portable: unzip anywhere and
+  run `ZSAPConnect.App.exe`.
 
 Both are self-contained — no .NET or Windows App SDK installation needed.
 
 The binaries are currently unsigned, so Windows SmartScreen may show an
-"unknown publisher" prompt on first run (**More info → Run anyway**).
+"unknown publisher" prompt the first time you run a manually downloaded
+installer (**More info → Run anyway**).
 
 ## Features
 
